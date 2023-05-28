@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=RunPaceCalculator
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment10.params=timeInSeconds\ distance
+comment10.target=void\ speedCalculator(int,\ double)
+comment11.params=times
+comment11.target=void\ printSpeedTime(int[])
+comment2.params=miles
+comment2.target=double\ milesToKm(double)
+comment3.params=kilometers
+comment3.target=double\ kmToMiles(double)
+comment4.params=arrValues
+comment4.target=void\ printArrayValues(int[])
+comment5.params=hours\ minutes\ seconds
+comment5.target=int\ timesToSeconds(int,\ int,\ int)
+comment6.params=times
+comment6.target=void\ printHrMinSec(int[])
+comment7.params=times
+comment7.target=int[]\ getTimeFromSeconds(int[])
+comment8.params=timeInSeconds\ distance
+comment8.target=void\ paceCalculator(int,\ double)
+comment9.params=times
+comment9.target=void\ printPaceTime(int[])
+numComments=12
